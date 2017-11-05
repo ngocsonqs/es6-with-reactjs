@@ -1,0 +1,15 @@
+{
+  "name": "reactjs-es6-study",
+  "version": "1.0.0",
+  "description": "hoc es6 va reactjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bangoku",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
